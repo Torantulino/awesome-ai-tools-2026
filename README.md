@@ -192,7 +192,9 @@
 
 ---
 
-## Related Awesome Lists
+## Related
+
+- [Awesome Security Tools 2026](https://github.com/spinov001-art/awesome-security-tools-2026) - 150+ cybersecurity tools Awesome Lists
 
 - [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 150+ web scraping tools
 - [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 120+ DevOps tools
