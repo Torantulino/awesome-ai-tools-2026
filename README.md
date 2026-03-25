@@ -1,5 +1,9 @@
 # Awesome AI Tools 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![GitHub stars](https://img.shields.io/github/stars/spinov001-art/awesome-ai-tools-2026?style=social)](https://github.com/spinov001-art/awesome-ai-tools-2026)
+[![Last Updated](https://img.shields.io/badge/last%20updated-March%202026-brightgreen)](https://github.com/spinov001-art/awesome-ai-tools-2026)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/spinov001-art/awesome-ai-tools-2026/pulls)
+
 > A curated list of the best AI tools, platforms, and frameworks for developers and businesses in 2026.
 
 ## Contents
